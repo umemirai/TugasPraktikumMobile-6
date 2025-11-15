@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tugas6/detail_wisata.dart';
-import 'package:tugas6/models/wisata.dart';// <- tambahkan import ini
-
+import 'package:tugas6/models/wisata.dart';
 class TampilanList extends StatelessWidget {
   const TampilanList({super.key});
 
